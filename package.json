@@ -1,0 +1,22 @@
+{
+  "name": "chat",
+  "version": "1.0.0",
+  "description": "Chat el cual dara soporte a usuarios automaticamente usando inteligencia artificial",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Omar19Ort/ChatST.git"
+  },
+  "author": "Omar Vazquez Ortiz",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Omar19Ort/ChatST/issues"
+  },
+  "homepage": "https://github.com/Omar19Ort/ChatST#readme",
+  "dependencies": {
+    "express": "^5.2.1"
+  }
+}

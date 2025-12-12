@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/Omar19Ort/ChatST#readme",
   "dependencies": {
+    "ejs": "^3.1.10",
     "express": "^5.2.1"
   }
 }

@@ -6,3 +6,9 @@ router.get('/', (req, res) => {
     // Renderiza el archivo 'index.ejs' que está en /views/index.ejs
     res.render('index', { title: 'Página de Inicio' });
 });
+
+router.get('/about',(req,res) =>{
+    res.render('about',{title:'Acerca de nosotros'});
+});
+
+module.exports = router;
